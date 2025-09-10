@@ -1,0 +1,16 @@
+Name: Bala
+Email: itzmebalustrade@gmail.com
+Password: BAl@2008
+Gender: Male
+Phone: 8978176486
+Address: Main Road Garla,Beside SBI Atm
+5-38 ,Near Sai Baba Temple
+DOB: 2008-06-19
+Program: Diploma cse
+Institute: Lovely professional university
+GitHub: https://www.linkedin.com/in/baladitya-chandra-sai-035930287/
+LinkedIn: https://www.linkedin.com/in/baladitya-chandra-sai-035930287/
+Interest: Reading
+Skill: C
+Remarks: ndfjkvkjsd
+----------------------------------
