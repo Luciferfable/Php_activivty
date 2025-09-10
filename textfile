@@ -1,0 +1,15 @@
+This project is a Student Registration Form.
+
+It is built using PHP, Bootstrap, and CSS.
+
+The form collects details like name, email, phone, course, and more.
+
+Each input is validated using PHP conditions and loops.
+
+Errors are shown beside the fields if data is wrong.
+
+On success, the data is stored in a text file.
+
+The design uses Bootstrap + custom CSS with a background image.
+
+The form is interactive, user-friendly, and responsive.
